@@ -1,1 +1,2 @@
-# medeas-first-projeqt
+ეს ჩემი პირველი პროექტია.
+# medeas-first-projeqt 
